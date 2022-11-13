@@ -1,14 +1,23 @@
-)# INFORME-Nro-1-Jos-Pilaguano-
+# INFORME-Nro-1-Jos-Pilaguano-
+
 UNIVERSIDAD DE LAS FUERZAS ARMADAS "ESPE" 
+
 ASIGNATURA: FUNDAMENTOS DE CIRCUITOS ELECTRICOS 
+
 INGENIERO: DARWIN ALULEMA 
+
 NOMBRE: JOSÉ WILMER PILAGUANO TOAQUIZA 
+
 TEMA: RESUMEN Y RESOLUCIÓN DE EJERCICIOS CAPITULO 1 Y 2 (LIBRO FLOYD) 
+
 FECHA: 14 NOVIEMBRE DEL 2022
 
 OBJETIVOS 
+
 OBJETIVO GENERAL: Analizar y desarrollar un informe con la información de cantidades y unidades, voltaje, corriente y resistencia para comprender de los fundamentos en la electrónica, con el uso de herramientas de la investigación. 
+
 ¿CUÁL ES EL OBJETIVO DE ANALIZAR Y DESARROLLAR ESTE INFORME CON LA INFORMACIÓN (LIBRO FLOYD)?
+
 OBJETIVOS ESPECÍFICOS: 
 1) Identificar la información básica de el capitulo 1 y 2 del libro floyd.
 2) Utilizar medios visuales, donde interpretar las partes mas importantes de cada capitulo.
