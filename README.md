@@ -63,7 +63,7 @@ SECCIÓN 1–3 Notación de ingeniería y prefijos métricos
 
 SECCIÓN 2–2 Carga eléctrica
 
-![image](https://user-images.githubusercontent.com/116677175/201531026-bc212dd5-dd83-4907-88c8-88ea3c3eb400.png)
+![image](https://user-images.githubusercontent.com/116677175/201544226-f2fa5500-1423-49ea-b7b2-25a139beffdc.png)
 
 SECCIÓN 2–3 Voltaje, corriente y resistencia
 
