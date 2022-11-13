@@ -104,6 +104,7 @@ SECCIÓN 2–7 Mediciones de circuito básicas
 ![image](https://user-images.githubusercontent.com/116677175/201531905-4aecdbf4-5b9f-46c4-8f4c-1690191222bb.png)
 
 VIDEO 
+
 CONCLUSIONES
 +Nuestro objetivo fue que la información del libro de floyd fueron temas interesantes de la electrónica, algo que debemos tener claro es la dirección de la corriente, como calcular el voltaje y la corriente, por lo cual podemos decir qure cumplimos ese criterio de analizar y entender temas de circuitos. 
 +Con el resumen hecho de los capitulos 1 y 2 hace que la información sea mas facil de entender, los temas se hacen mas cortos incentivando a la lectura.
